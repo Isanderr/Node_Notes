@@ -9,18 +9,18 @@ You can run it in command prompt using "node app.js --....." and command below.
 
 Posible commands:
 
-  add      -- Add a new note
+  add        -- Add a new note
   
-  list     -- List all notes
+  list       -- List all notes
   
-  read     -- Read a note
+  read       -- Read a note
   
-  remove   -- Remove a note
+  remove     -- Remove a note
 
 Arguments to use:
 
-  --title, -t  Title of note                                          
-  --body, -b   Body of note  
+  --title, -t    Title of note                                          
+  --body, -b     Body of note  
 
 Options:
 

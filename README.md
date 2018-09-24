@@ -9,6 +9,7 @@ You can run it in command prompt using "node app.js --....." and command below.
 Posibble commands in app:
 
 Commands:
+
   add     Add a new note
   list    List all notes
   read    Read a note
